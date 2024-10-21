@@ -5,7 +5,7 @@ This repository contains a static web page for my Curriculum Vitae (CV) created 
 ## Table of Contents
 
 - [Objectives](#objectives)
-- [Hobbies](#hobbies)
+- [Interests](#interests)
 - [Contact Information](#contact-information)
 - [About Me](#about-me)
 - [Education](#education)
